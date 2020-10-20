@@ -41,7 +41,9 @@ int main()
         break;
         default:
         printf("Operação inválida");
-        printf("Tânia é demais");
+        printf("Tânia é demais!!!");
+        printf("Apoio fazer um aulão de git");
+        printf("Não sei mais o que falar");
 
     }
     return 0;
