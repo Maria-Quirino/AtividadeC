@@ -41,6 +41,8 @@ int main()
         break;
         default:
         printf("Operação inválida");
+        printf("Tânia é demais");
+
     }
     return 0;
 }
